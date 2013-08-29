@@ -1,0 +1,34 @@
+You submitted this homework on Wed 17 Apr 2013 9:48 PM PDT -0700. You got a score of 10.00 out of 10.00.
+The instructions for this homework, which is a programming assignment, are provided via the sidebar link to "Programming assignment for HW3". Please note that this is a timed homework, for which you should first complete the programming assignment. If you have not done so, close your browser; hopefully this will avoid wasting an attempt.
+Question 1
+Enter one of the top 2 terms used in a title by the author: Alan M. Frieze
+Answer for Question 1
+
+You entered:
+Your Answer
+Random
+
+Score
+5.00
+
+Total
+
+5.00 / 5.00
+
+Question 2
+Enter one of the top 2 terms used in a title by the author: Donald F. Towsley
+Answer for Question 2
+
+You entered:
+Your Answer
+Multicast
+
+Score
+5.00
+
+Total
+
+5.00 / 5.00
+
+
+
